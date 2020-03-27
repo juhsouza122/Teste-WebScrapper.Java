@@ -24,5 +24,11 @@
 >class Input: 
   A classe Input contém o main onde tem a classe Scanner que armazena o que o usuário digitou e imprime na tela as informações de cada animal.
   
->class Acao: 
-  A classe Acao é uma interface que contém a função emitirSom.
+>Interfase Acao: 
+  A interfase Acao é uma interface que contém a função emitirSom.
+  
+  
+**Teste de código-Web Scraper:**
+>class Amazon:
+  A classe Amazon tem uma main dentro da main fiz uma variável (url) para receber as informações do site através da url, e um Document pagina para conectar o Jsoup a url. Contém uma ArrayList para pegar as informações do produto e um for para percorrelos.
+  O e-commerce que usei foi o Amazon Best Sellers de livros.
