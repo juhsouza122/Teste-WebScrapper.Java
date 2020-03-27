@@ -30,5 +30,5 @@
   
 **Teste de código-Web Scraper:**
 >class Amazon:
-  A classe Amazon tem uma main dentro da main fiz uma variável (url) para receber as informações do site através da url, e um Document pagina para conectar o Jsoup a url. Contém uma ArrayList para pegar as informações do produto e um for para percorrelos.
+  A classe Amazon tem uma main. Dentro da main fiz uma variável (url) para receber as informações do site através da url, e um Document pagina para conectar o Jsoup a url. Contém um ArrayList para pegar as informações do produto e um for para percorrelos.
   O e-commerce que usei foi o Amazon Best Sellers de livros.
