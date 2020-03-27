@@ -1,12 +1,12 @@
 # Linguagem Java
 ##Teste de código - Pool
-##class Animais: 
+**class Animais** 
   A classe Animais contém o encapsulamento dos atributos de cada animal, são privados (int idade, float tamanho), e dois construtores um passando como parâmetro as variaveis (idade e tamanho) e o outro construtor vazio. Também contém uma interface Acao onde acessa a função void emitirSom, sendo uma característica em comum de todos os animais da fazenda.
 
-##class Aves: 
+**class Aves** 
   A classe Aves herda os atributos e métodos da classe pai Animais, contém uma variável String corPena que armazena a cor da pena das aves, contém também dois construtores um passando como parâmetro as variáveis (idade, tamanho, corPena) e o outro construtor vazio, e também uma função void botarOvo que imprime a característica das aves de botar ovos.
 
-##class Mamiferos: 
+**class Mamiferos**
   A classe Mamiferos herda os atributos e métodos da classe pai Animais, que contém dois construtores um passando como parâmetro as variáveis (idade, tamanho, corPelo) e o outro vazio, e também uma várivel String corPelo que armazena a cor do pelo do animal, e uma função void amamentar que imprime a caracteristica dos mamiferos de amamentar.
 
 ##class Galinha: 
