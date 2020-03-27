@@ -22,7 +22,7 @@
   A classe Vaca herda os atributos e métodos da classe pai Mamiferos, que contém dois construtores um passando como parâmetro as variáveis (idade, tamanho, corPelo) e o outro vazio, e também uma função void emitirSom que imprime um mugido.
   
 >class Input: 
-  A classe Input contém a classe Scanner que armazena o que o usuário digitou e imprime na tela as informações de cada animal.
+  A classe Input contém o main onde tem a classe Scanner que armazena o que o usuário digitou e imprime na tela as informações de cada animal.
   
 >class Acao: 
   A classe Acao é uma interface que contém a função emitirSom.
